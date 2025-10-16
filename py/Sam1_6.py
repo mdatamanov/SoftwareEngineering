@@ -1,0 +1,5 @@
+my_string = input('Введите последовательность чисел через пробел: ')
+my_tuple = tuple(my_string.split(' '))
+my_list = my_string.split(' ')
+print(my_tuple)
+print(my_list)
