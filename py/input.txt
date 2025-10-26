@@ -1,10 +1,4 @@
-Приветствие 
-Спасибо 
-Извините 
-Пожалуйста 
-До свидания 
-Ты готов? 
-Как дела? 
-С днем рождения! 
-Удача! 
-Я тебя люблю. 
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
